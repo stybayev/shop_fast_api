@@ -70,3 +70,5 @@ API для мобильного приложения, в котором поле
 
 ##### После чего вы попадете в интерйес pgAdmin, где можете посмотреть и управлять всей БД
 ![](https://github.com/stybayev/test_yoko/blob/main/images/tables.png?raw=true)
+
+Copyright (c) 2022-present, stybayev - Doskhan Stybayev
