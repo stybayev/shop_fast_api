@@ -45,10 +45,12 @@ API для мобильного приложения, в котором поле
 ##### 1) Документацию API в Swaggger с описанием всех роутов можно посмотреть по ссылке 
 
     http://0.0.0.0:8000/docs
+![](https://github.com/stybayev/test_yoko/blob/main/images/swagger.png?raw=true)
 
 ##### 2) Интерфейс GraphQL(Strawberry) можно посмотреть по ссылке
     
     http://0.0.0.0:8000/graphql
+![](https://github.com/stybayev/test_yoko/blob/main/images/graphql.png?raw=true)
 
 ##### 3) Также можете посмотреть структуру БД через Интерфейс pgAdmin4
 ##### Сначала перейдите по ссылке
@@ -56,3 +58,16 @@ API для мобильного приложения, в котором поле
     http://0.0.0.0:5050
 
 ##### Введите логин (admin@admin.com) и пароль (admin)
+![](https://github.com/stybayev/test_yoko/blob/main/images/Screenshot%20at%20Nov%2022%2000-01-34.png?raw=true)
+
+##### Нажмите на Add new server
+![](https://github.com/stybayev/test_yoko/blob/main/images/add_new_server.png?raw=true)
+
+##### Во вкладке Generel введите название БД (db)
+![](https://github.com/stybayev/test_yoko/blob/main/images/general.png?raw=true)
+
+##### Во вкладке Connection введите username (postgres) и password (password)
+![](https://github.com/stybayev/test_yoko/blob/main/images/connection.png?raw=true)
+
+##### После чего вы попадете в интерйес pgAdmin, где можете посмотреть и управлять всей БД
+![](https://github.com/stybayev/test_yoko/blob/main/images/tables.png?raw=true)
