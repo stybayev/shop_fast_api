@@ -1,0 +1,34 @@
+[tool.poetry]
+name = "test-yoko"
+version = "0.1.0"
+description = ""
+authors = ["y"]
+#readme = "README.md"
+#packages = [{include = "test_yoko"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.87.0"
+uvicorn = "^0.19.0"
+gunicorn = "^20.1.0"
+alembic = "^1.8.1"
+sqlalchemy = "^1.4.44"
+black = "^22.10.0"
+python-dotenv = "^0.21.0"
+fastapi-sqlalchemy = "^0.2.1"
+promise = "^2.3"
+psycopg2-binary = "^2.9.5"
+graphene = "^3.1.1"
+graphene-sqlalchemy = "2.0"
+starlette-graphene3 = "^0.6.0"
+strawberry-graphql = {extras = ["fastapi"], version = "^0.142.2"}
+
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.0"
+requests = "^2.28.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
