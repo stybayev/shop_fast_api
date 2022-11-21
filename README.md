@@ -56,5 +56,3 @@ API для мобильного приложения, в котором поле
     http://0.0.0.0:5050
 
 ##### Введите логин (admin@admin.com) и пароль (admin)
-    
-    ![Image alt](https://prnt.sc/boCrU3K7twQm!)
