@@ -3,7 +3,7 @@
 
 **Ссылки**:
 - [Telegram](https://t.me/ddos_att)
-- [Структура БД](https://drive.google.com/file/d/1e1Im1R0mAa6WT83LeZyf2n8rYgrAuUY0/view?usp=sharing)
+- [Схема база данных](https://drive.google.com/file/d/1e1Im1R0mAa6WT83LeZyf2n8rYgrAuUY0/view?usp=sharing)
 
 ### Описание проекта:
 API для мобильного приложения, в котором полевой сотрудник заказчика будет выполнять визиты в магазины.
