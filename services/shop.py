@@ -42,6 +42,10 @@ def get_shop_single_by_id(shop_id: int):
     shop = db.session.query(Shop).filter(Shop.id == shop_id).first()
     if not shop:
         raise HTTPException(status_code=404, detail=f"Торговой точки не существует")
+    if shop.employee:
+        print(shop.employee)
+    if shop.customer:
+        print(shop.customer)
     return shop
 
 

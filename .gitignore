@@ -24,7 +24,7 @@ data/
 .DS_Store
 
 ### PostgreSQL database dump ###
-*.sql
+#*.sql
 
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
