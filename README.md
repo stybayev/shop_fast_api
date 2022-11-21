@@ -62,10 +62,10 @@ API для мобильного приложения, в котором поле
 ##### Нажмите на Add new server
 ![](https://github.com/stybayev/test_yoko/blob/main/images/add_new_server.png?raw=true)
 
-##### Во вкладке Generel введите название БД (db)
+##### Во вкладке Generel введите Hostmame/addres (db)
 ![](https://github.com/stybayev/test_yoko/blob/main/images/general.png?raw=true)
 
-##### Во вкладке Connection введите username (postgres) и password (password)
+##### Во вкладке Connection введите username (postgres) и password (password), а также Hostmame/addres (db)
 ![](https://github.com/stybayev/test_yoko/blob/main/images/connection.png?raw=true)
 
 ##### После чего вы попадете в интерйес pgAdmin, где можете посмотреть и управлять всей БД
