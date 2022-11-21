@@ -53,8 +53,8 @@ API для мобильного приложения, в котором поле
 ##### 3) Также можете посмотреть структуру БД через Интерфейс pgAdmin4
 ##### Сначала перейдите по ссылке
     
-    http://0.0.0.0:8000/graphql
+    http://0.0.0.0:5050
 
 ##### Введите логин (admin@admin.com) и пароль (admin)
     
-![Image alt](https://prnt.sc/boCrU3K7twQm!)
+    ![Image alt](https://prnt.sc/boCrU3K7twQm!)
