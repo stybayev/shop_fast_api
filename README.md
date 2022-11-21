@@ -11,8 +11,6 @@ API для мобильного приложения, в котором поле
 
 ### Инструменты разработки
 
-**Стек:**
-
 - VM: Doker
 - PL: Python
 - Packaging/Dependency management: Poetry
