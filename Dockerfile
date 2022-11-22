@@ -55,8 +55,7 @@ RUN chmod +x /docker-entrypoint.sh
 
 # venv already has runtime deps installed we get a quicker install
 WORKDIR $PYSETUP_PATH
-RUN poetry install && \
-bundler install
+RUN poetry install
 
 WORKDIR /app
 COPY . .
